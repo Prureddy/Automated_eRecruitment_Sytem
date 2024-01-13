@@ -7,7 +7,7 @@
  ![image](https://github.com/Prureddy/Code_Red_Hackathon_2024/assets/145218253/7343b2ba-b59c-4289-a506-77b5d0bd3bac)
 
 **Use Cases**
-## Efficient Resume Screening: Advanced NLP algorithms parse resumes, automating the extraction of key information.Skills matching against job requirements enables an automated scoring system.
+### Efficient Resume Screening: Advanced NLP algorithms parse resumes, automating the extraction of key information.Skills matching against job requirements enables an automated scoring system.
 ## Automated Interview Integrity: Shortlisted candidates receive automatic email notifications.AI monitors interview integrity through automatic movement, sound, and voice detection.
 ## Streamlined Skills Assessment: Integrated AI-powered tools conduct skills assessments and evaluate candidate performance.Automated calculation of scores and generation of comprehensive reports.
 ## Predictive Analytics for Informed Decision-Making: Machine learning models predict candidate success and suitability based on historical data.Insights derived assist in informed decision-making regarding candidate selection.
@@ -24,7 +24,7 @@ Develop a user-friendly onboarding process to ensure seamless adoption of SmartR
 **Strategic Marketing**
 Implement a targeted marketing strategy to create awareness about SmartRecruit AI's unique features. Leverage digital marketing, industry events, and collaborations to reach potential clients.
 
-## A subscription-based SaaS (Software as a Service) model would be an ideal fit for SmartRecruit AI. This model allows businesses to access the platform's advanced recruitment features on a subscription basis, offering flexibility in choosing plans based on their hiring needs. The pricing tiers can be structured to cater to different company sizes and recruitment volumes. Additionally, offering a freemium model with basic features and premium plans with advanced functionalities can attract a wider audience. Integration partnerships with HR software providers can also be explored to enhance the platform's reach and provide a comprehensive solution for talent acquisition.A subscription-based SaaS (Software as a Service) model would be an ideal fit for SmartRecruit AI. This model allows businesses to access the platform's advanced recruitment features on a subscription basis, offering flexibility in choosing plans based on their hiring needs. The pricing tiers can be structured to cater to different company sizes and recruitment volumes. Additionally, offering a freemium model with basic features and premium plans with advanced functionalities can attract a wider audience. Integration partnerships with HR software providers can also be explored to enhance the platform's reach and provide a comprehensive solution for talent acquisition.
+### A subscription-based SaaS (Software as a Service) model would be an ideal fit for SmartRecruit AI. This model allows businesses to access the platform's advanced recruitment features on a subscription basis, offering flexibility in choosing plans based on their hiring needs. The pricing tiers can be structured to cater to different company sizes and recruitment volumes. Additionally, offering a freemium model with basic features and premium plans with advanced functionalities can attract a wider audience. Integration partnerships with HR software providers can also be explored to enhance the platform's reach and provide a comprehensive solution for talent acquisition.A subscription-based SaaS (Software as a Service) model would be an ideal fit for SmartRecruit AI. This model allows businesses to access the platform's advanced recruitment features on a subscription basis, offering flexibility in choosing plans based on their hiring needs. The pricing tiers can be structured to cater to different company sizes and recruitment volumes. Additionally, offering a freemium model with basic features and premium plans with advanced functionalities can attract a wider audience. Integration partnerships with HR software providers can also be explored to enhance the platform's reach and provide a comprehensive solution for talent acquisition.
 
 **Security Measures**
 Prioritize data privacy and security by implementing robust security measures. Communicate transparently with users about the platform's security features to build trust.
@@ -33,7 +33,7 @@ Prioritize data privacy and security by implementing robust security measures. C
 Prioritize customer support excellence by offering responsive and knowledgeable support. Quick issue resolution and effective communication contribute to overall user satisfaction.
  
 # SCREEN SNAPS
-![WhatsApp Image 2024-01-13 at 4 07 52 PM](https://github.com/Prureddy/Code_Red_Hackathon_2024/assets/145218253/54fdb8b0-4f71-4308-975f-6c2bb4be6a6d)
+
 ![image](https://github.com/Prureddy/Code_Red_Hackathon_2024/assets/145218253/a6428398-d180-4b3b-8e79-cf7b24fda267)
 
 ![image](https://github.com/Prureddy/Code_Red_Hackathon_2024/assets/145218253/b44fb7d8-49aa-41b1-9979-d6e7b39ae632)
