@@ -1,18 +1,18 @@
 # Code_Red_Hackathon_2024
 
-**E-Recruitment Automation Web Application**
+# E-Recruitment Automation Web Application
 
  # PROBLEM STATEMENT 
- ## SmartRecruit AI represents the next frontier in e-recruitment, seamlessly combining cutting-edge AI algorithms with Gen-AI technology to revolutionize the entire hiring process. By harnessing advanced Natural Language Processing (NLP), the platform ensures precise resume screening, aligning candidate skills with job requirements akin to Applicant Tracking Systems (ATS). Shortlisted candidates are promptly notified, and during interviews, AI guarantees integrity through automated movement, sound, and voice detection.Gen-AI takes candidate screening to a new level by conducting personalized quizzes based on resumes, utilizing both voice and text conversions for a comprehensive evaluation. Complementing these features, AI-powered tools conduct skills assessments, automatically calculating scores and generating detailed reports. Furthermore, the platform leverages historical data to fuel predictive analytics models, offering insights that significantly contribute to informed decision-making..
+### SmartRecruit AI represents the next frontier in e-recruitment, seamlessly combining cutting-edge AI algorithms with Gen-AI technology to revolutionize the entire hiring process. By harnessing advanced Natural Language Processing (NLP), the platform ensures precise resume screening, aligning candidate skills with job requirements akin to Applicant Tracking Systems (ATS). Shortlisted candidates are promptly notified, and during interviews, AI guarantees integrity through automated movement, sound, and voice detection.Gen-AI takes candidate screening to a new level by conducting personalized quizzes based on resumes, utilizing both voice and text conversions for a comprehensive evaluation. Complementing these features, AI-powered tools conduct skills assessments, automatically calculating scores and generating detailed reports. Furthermore, the platform leverages historical data to fuel predictive analytics models, offering insights that significantly contribute to informed decision-making..
  ![image](https://github.com/Prureddy/Code_Red_Hackathon_2024/assets/145218253/7343b2ba-b59c-4289-a506-77b5d0bd3bac)
 
-**Use Cases**
-### Efficient Resume Screening: Advanced NLP algorithms parse resumes, automating the extraction of key information.Skills matching against job requirements enables an automated scoring system.
-### Automated Interview Integrity: Shortlisted candidates receive automatic email notifications.AI monitors interview integrity through automatic movement, sound, and voice detection.
-### Streamlined Skills Assessment: Integrated AI-powered tools conduct skills assessments and evaluate candidate performance.Automated calculation of scores and generation of comprehensive reports.
-### Predictive Analytics for Informed Decision-Making: Machine learning models predict candidate success and suitability based on historical data.Insights derived assist in informed decision-making regarding candidate selection.
-### Efficient Interview Scheduling and Communication: Automated scheduling tools streamline interview logistics.Integration with email systems ensures seamless communication throughout the process.
-### Automated HR Reporting: Reports containing candidate scores are automatically sent to HR personnel.Successful candidates progress seamlessly to the next interview stage with automatic interview invitations.
+## Use Cases
+- ### Efficient Resume Screening: Advanced NLP algorithms parse resumes, automating the extraction of key information.Skills matching against job requirements enables an automated scoring system.
+- ### Automated Interview Integrity: Shortlisted candidates receive automatic email notifications.AI monitors interview integrity through automatic movement, sound, and voice detection.
+- ### Streamlined Skills Assessment: Integrated AI-powered tools conduct skills assessments and evaluate candidate performance.Automated calculation of scores and generation of comprehensive reports.
+- ### Predictive Analytics for Informed Decision-Making: Machine learning models predict candidate success and suitability based on historical data.Insights derived assist in informed decision-making regarding candidate selection.
+- ### Efficient Interview Scheduling and Communication: Automated scheduling tools streamline interview logistics.Integration with email systems ensures seamless communication throughout the process.
+- ### Automated HR Reporting: Reports containing candidate scores are automatically sent to HR personnel.Successful candidates progress seamlessly to the next interview stage with automatic interview invitations.
 ![image](https://github.com/Prureddy/Code_Red_Hackathon_2024/assets/145218253/7343b2ba-b59c-4289-a506-77b5d0bd3bac)
 
 # Approach for Implementation:
