@@ -8,11 +8,11 @@
 
 **Use Cases**
 ### Efficient Resume Screening: Advanced NLP algorithms parse resumes, automating the extraction of key information.Skills matching against job requirements enables an automated scoring system.
-## Automated Interview Integrity: Shortlisted candidates receive automatic email notifications.AI monitors interview integrity through automatic movement, sound, and voice detection.
-## Streamlined Skills Assessment: Integrated AI-powered tools conduct skills assessments and evaluate candidate performance.Automated calculation of scores and generation of comprehensive reports.
-## Predictive Analytics for Informed Decision-Making: Machine learning models predict candidate success and suitability based on historical data.Insights derived assist in informed decision-making regarding candidate selection.
-## Efficient Interview Scheduling and Communication: Automated scheduling tools streamline interview logistics.Integration with email systems ensures seamless communication throughout the process.
-## Automated HR Reporting: Reports containing candidate scores are automatically sent to HR personnel.Successful candidates progress seamlessly to the next interview stage with automatic interview invitations.
+### Automated Interview Integrity: Shortlisted candidates receive automatic email notifications.AI monitors interview integrity through automatic movement, sound, and voice detection.
+### Streamlined Skills Assessment: Integrated AI-powered tools conduct skills assessments and evaluate candidate performance.Automated calculation of scores and generation of comprehensive reports.
+### Predictive Analytics for Informed Decision-Making: Machine learning models predict candidate success and suitability based on historical data.Insights derived assist in informed decision-making regarding candidate selection.
+### Efficient Interview Scheduling and Communication: Automated scheduling tools streamline interview logistics.Integration with email systems ensures seamless communication throughout the process.
+### Automated HR Reporting: Reports containing candidate scores are automatically sent to HR personnel.Successful candidates progress seamlessly to the next interview stage with automatic interview invitations.
 ![image](https://github.com/Prureddy/Code_Red_Hackathon_2024/assets/145218253/7343b2ba-b59c-4289-a506-77b5d0bd3bac)
 
 # Approach for Implementation:
