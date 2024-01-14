@@ -40,6 +40,14 @@ Prioritize customer support excellence by offering responsive and knowledgeable 
 
 ![image](https://github.com/Prureddy/Code_Red_Hackathon_2024/assets/145218253/748575a1-1e23-4c47-89c8-b7fc8c51969e)
 
+# PRESENTATION SNIPS
+![image](https://github.com/Prureddy/Code_Red_Hackathon_2024/assets/145218253/eeb255dc-7799-4f83-b971-393d50c7aa0f)
+![image](https://github.com/Prureddy/Code_Red_Hackathon_2024/assets/145218253/b215b2f0-26d6-4f51-8e9a-7c55c9b8d9b6)
+![image](https://github.com/Prureddy/Code_Red_Hackathon_2024/assets/145218253/c4ab58f6-b910-4f82-8af8-8ec62a46d92c)
+![image](https://github.com/Prureddy/Code_Red_Hackathon_2024/assets/145218253/13a4ba30-dae1-440b-8693-f03ad92f05d2)
+![image](https://github.com/Prureddy/Code_Red_Hackathon_2024/assets/145218253/ece415c8-b3a0-4a5b-98ac-b000ed725173)
+
+
 
 
 
